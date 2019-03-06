@@ -1,5 +1,7 @@
 # netGame
 The notes of online games development.
+贴一个《》第五章：开发P2P MO》电子档的html:http://www.ituring.com.cn/book/tupubarticle/3176
+
 maze war:FPS游戏的先驱
 龙与地下城:RPG/大富翁类型游戏的经典
 太空入侵者:入侵者类游戏鼻祖，经典的游戏编程流程
