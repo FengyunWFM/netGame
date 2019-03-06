@@ -140,3 +140,26 @@ RPC开发方式面向的是MMO游戏。共享内存更适合MO游戏。
 2.服务器的带宽负荷低（甚至没有负荷）
 3.服务器硬件成本低（甚至零成本）
 4.服务器维护期间也可以正常进行游戏。
+
+六、辅助系统
+游戏的整体价值是游戏内容的价值与辅助系统相乘的结果。
+通用服务：
+steam服务:http://store.stea.powered.com/
+Plus+服务:http://plusplus.com/
+OpenFeint服务：http://www.openfeint.com/
+GameSpy Arcade的:http://www.gamespyarcade.com/
+Uplay的:http://uplay.uk.ubi.com/
+面向游戏主机的服务：
+Microsoft Xbox LIVE的:http://www.xbox.com/ja-jp/live
+任天堂-Wi-Fi Connection的:http://Wi-Fi.ninedo.co.jp/
+PlayStation Network的:
+APP Gamecenter的:http://www.apple.com/game-center/
+网页游戏服务：
+Kongregate的:http://www.kongregate.com/
+
+
+怎么提升：“守、破、离”
+1、从模仿经典开始。
+2、参加研讨会。技术会议，转化为自己自己的理解。
+将一般时间用在边缘领域（相关技术），和之前没有公事过的人一起学习会提高的更快。
+3、“离”。。
